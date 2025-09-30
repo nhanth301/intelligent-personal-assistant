@@ -2,6 +2,11 @@
 
 A multi-agent personal assistant system built with AutoGen AgentChat that provides email, calendar, weather, and web search capabilities through a FastAPI interface with optional Slack integration.
 
+![Demo 1](imgs/autogen.png)
+![Demo 1](imgs/image.png)
+![Demo 1](imgs/mail.png)
+![Demo 1](imgs/calendar.png)
+
 ## Features
 
 - **Multi-Agent System**: Specialized agents for email, calendar, weather, and web search
